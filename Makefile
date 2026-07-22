@@ -1,12 +1,14 @@
-COLLECTION_DIR := /mnt/containers/navidrome/collection
+collection_dir ?= ~/collection
 
-$(COLLECTION_DIR)/%/missing_lyrics.txt: $(COLLECTION_DIR)/%
-        find '$^' -type f -not -name '*.txt' -not -name '*.nsp' -not -name '*.m3u' -not -name 'cover.jpg' | \
-                parallel "ffmpeg -i '{}' -f metadata | grep -q lyrics-XXX | echo '{}'" > '$@'
+collection_dir := $(patsubst %/,%,$(collection_dir))
 
-$(COLLECTION_DIR)/%/album_with_missing_lyrics.txt: $(COLLECTION_DIR)/%/missing_lyrics.txt
-        cat $^ | \
-                rev | \
-                cut -d'/' -f 2- | \
-                rev | \
-                sort -u > $@
+$(collection_dir)/%/missing_lyrics.txt: $(collection_dir)/%
+	find '$^' -type f -not -name '*.txt' -not -name '*.nsp' -not -name '*.m3u' -not -name 'cover.jpg' | \
+  	parallel ffmpeg -i '{}' -f metadata -loglevel 0 \| grep -q lyrics-XXX \| echo '{}'  > '$@'
+
+$(collection_dir)/%/album_with_missing_lyrics.txt: $(collection_dir)/%/missing_lyrics.txt
+	cat $^ | \
+  	rev | \
+    cut -d'/' -f 2- | \
+    rev | \
+    sort -u > '$@'

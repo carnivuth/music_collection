@@ -1,20 +1,37 @@
-collection_dir ?= ~/collection
+.PHONY: collection
 
-collection_dir := $(patsubst %/,%,$(collection_dir))
-
-$(collection_dir)/%/missing_lyrics.txt: $(collection_dir)/%
-	find '$^' -type f -not -name '*.txt' -not -name '*.nsp' -not -name '*.m3u' -not -name 'cover.jpg' | \
-  	parallel ffmpeg -i '{}' -f metadata -loglevel 0 \| grep -q lyrics-XXX \| echo '{}'  > '$@'
-
-$(collection_dir)/%/album_with_missing_lyrics.txt: $(collection_dir)/%/missing_lyrics.txt
+define album_missing_file
 	cat $^ | \
   	rev | \
     cut -d'/' -f 2- | \
     rev | \
     sort -u > '$@'
+endef
+
+collection:
+	mkdir -p '$@'
+	sshfs avalug.local.carnivuth.org:/mnt/containers/navidrome/collection '$@'
+
+collection/%/missing_genre.txt: collection/%
+	find '$^' -type f -not -name '*.txt' -not -name '*.nsp' -not -name '*.m3u' -not -name 'cover.jpg' | \
+  	parallel ffmpeg -i '{}' -f metadata -loglevel 0 \| grep -q Genre \| echo '{}'  > '$@'
+
+collection/%/album_with_missing_genre.txt: collection/%/missing_genre.txt
+	$(album_missing_file)
+
+collection/%/missing_lyrics.txt: collection/%
+	find '$^' -type f -not -name '*.txt' -not -name '*.nsp' -not -name '*.m3u' -not -name 'cover.jpg' | \
+  	parallel ffmpeg -i '{}' -f metadata -loglevel 0 \| grep -q lyrics-XXX \| echo '{}'  > '$@'
+
+collection/%/album_with_missing_lyrics.txt: collection/%/missing_lyrics.txt
+	$(album_missing_file)
 
 
-$(collection_dir)/%.lrc:  $(collection_dir)/$(firstword $(wildcard %.opus %.m4a %.wav %.flac %.mp3))
+collection/%.lrc:  collection/$(firstword $(wildcard %.opus %.m4a %.wav %.flac %.mp3))
 	curl -X GET 'https://lrclib.net/api/search?track_name=$(shell echo '$*' | sed -n 's/.*[0-9][0-9]-[0-9][0-9]\. \(.*\)\.[a-z0-9][a-z0-9]*/\1/p' | tr ' ' '+')&artist_name=$(shell echo '$*' | awk -F'/' '{print $$1}' | tr ' ' '+')&album_name=$(shell echo '$*' | awk -F'/' '{print $$2}' | tr ' ' '+' )' | \
 		jq '[.[] | select(.syncedLyrics != null)][0].lyricsfile' -r | \
 		parallel echo -e > '$@'
+
+to_import/%:
+	mkdir -p '$@'
+	( cd '$@' && cdda2wav -vall cddb=-1 speed=4 -B)

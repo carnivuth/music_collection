@@ -3,41 +3,6 @@
 /mnt/containers/navidrome/collection/Franciosca/Ode al Furente Longhi/01 Ode al Furente Longhi.mp3
 /mnt/containers/navidrome/collection/Disfigure/Blank (HYLO remix)/1. Blank (HYLO remix).opus
 /mnt/containers/navidrome/collection/Disfigure/Blank (VIP)/1. Blank.opus
-/mnt/containers/navidrome/collection/Compilations/Eurovision Song Contest_ Vienna 2026/19 Per sempre sì (Italy).opus
-/mnt/containers/navidrome/collection/Compilations/Eurovision Song Contest_ Vienna 2026/03 Eclipse (Australia).opus
-/mnt/containers/navidrome/collection/Compilations/Eurovision Song Contest_ Vienna 2026/28 Rosa (Portugal).opus
-/mnt/containers/navidrome/collection/Compilations/Eurovision Song Contest_ Vienna 2026/12 Too Epic to Be True (Estonia).opus
-/mnt/containers/navidrome/collection/Compilations/Eurovision Song Contest_ Vienna 2026/05 Just Go (Azerbaijan).opus
-/mnt/containers/navidrome/collection/Compilations/Eurovision Song Contest_ Vienna 2026/35 Eins, Zwei, Drei (United Kingdom).opus
-/mnt/containers/navidrome/collection/Compilations/Eurovision Song Contest_ Vienna 2026/31 Kraj mene (Serbia).opus
-/mnt/containers/navidrome/collection/Compilations/Eurovision Song Contest_ Vienna 2026/27 Pray (Poland).opus
-/mnt/containers/navidrome/collection/Compilations/Eurovision Song Contest_ Vienna 2026/08 Andromeda (Croatia).opus
-/mnt/containers/navidrome/collection/Compilations/Eurovision Song Contest_ Vienna 2026/25 Nova zora (Montenegro).opus
-/mnt/containers/navidrome/collection/Compilations/Eurovision Song Contest_ Vienna 2026/13 Liekinheitin (Finland).opus
-/mnt/containers/navidrome/collection/Compilations/Eurovision Song Contest_ Vienna 2026/15 On Replay (Georgia).opus
-/mnt/containers/navidrome/collection/Compilations/Eurovision Song Contest_ Vienna 2026/09 Jalla (Cyprus).opus
-/mnt/containers/navidrome/collection/Compilations/Eurovision Song Contest_ Vienna 2026/16 Fire (Germany).opus
-/mnt/containers/navidrome/collection/Compilations/Eurovision Song Contest_ Vienna 2026/18 Michelle (Israel).opus
-/mnt/containers/navidrome/collection/Compilations/Eurovision Song Contest_ Vienna 2026/01 Nân (Albania).opus
-/mnt/containers/navidrome/collection/Compilations/Eurovision Song Contest_ Vienna 2026/24 Viva, Moldova! (Moldova).opus
-/mnt/containers/navidrome/collection/Compilations/Eurovision Song Contest_ Vienna 2026/30 Superstar (San Marino).opus
-/mnt/containers/navidrome/collection/Compilations/Eurovision Song Contest_ Vienna 2026/04 TANZSCHEIN (Austria).opus
-/mnt/containers/navidrome/collection/Compilations/Eurovision Song Contest_ Vienna 2026/20 Ēnā (Latvia).opus
-/mnt/containers/navidrome/collection/Compilations/Eurovision Song Contest_ Vienna 2026/33 Alice (Switzerland).opus
-/mnt/containers/navidrome/collection/Compilations/Eurovision Song Contest_ Vienna 2026/21 Sólo Quiero Más (Lithuania).opus
-/mnt/containers/navidrome/collection/Compilations/Eurovision Song Contest_ Vienna 2026/29 Choke Me (Romania).opus
-/mnt/containers/navidrome/collection/Compilations/Eurovision Song Contest_ Vienna 2026/26 Ya Ya Ya (Norway).opus
-/mnt/containers/navidrome/collection/Compilations/Eurovision Song Contest_ Vienna 2026/23 Bella (Malta).opus
-/mnt/containers/navidrome/collection/Compilations/Eurovision Song Contest_ Vienna 2026/02 Paloma Rumba (Armenia).opus
-/mnt/containers/navidrome/collection/Compilations/Eurovision Song Contest_ Vienna 2026/06 Dancing on the Ice (Belgium).opus
-/mnt/containers/navidrome/collection/Compilations/Eurovision Song Contest_ Vienna 2026/34 Ridnym (Ukraine).opus
-/mnt/containers/navidrome/collection/Compilations/Eurovision Song Contest_ Vienna 2026/32 My System (Sweden).opus
-/mnt/containers/navidrome/collection/Compilations/Eurovision Song Contest_ Vienna 2026/11 Før Vi Går Hjem (Denmark).opus
-/mnt/containers/navidrome/collection/Compilations/Eurovision Song Contest_ Vienna 2026/14 REGARDE! (France).opus
-/mnt/containers/navidrome/collection/Compilations/Eurovision Song Contest_ Vienna 2026/10 CROSSROADS (Czechia).opus
-/mnt/containers/navidrome/collection/Compilations/Eurovision Song Contest_ Vienna 2026/22 Mother Nature (Luxembourg).opus
-/mnt/containers/navidrome/collection/Compilations/Eurovision Song Contest_ Vienna 2026/17 Ferto (Greece).opus
-/mnt/containers/navidrome/collection/Compilations/Eurovision Song Contest_ Vienna 2026/07 Bangaranga (Bulgaria).opus
 /mnt/containers/navidrome/collection/Compilations/イナズマイレブン テレビアニメ 熱血サントラ! 第1巻/20 忍び寄る雷鳴.opus
 /mnt/containers/navidrome/collection/Compilations/イナズマイレブン テレビアニメ 熱血サントラ! 第1巻/12 帝国学園のテーマ〜帝国学園がやってきた!〜 デスゾーン.opus
 /mnt/containers/navidrome/collection/Compilations/イナズマイレブン テレビアニメ 熱血サントラ! 第1巻/15 公式戦.opus

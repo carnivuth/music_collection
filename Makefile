@@ -20,7 +20,7 @@ to_import/%:
 	( cd '$@' && cdda2wav -vall cddb=-1 speed=4 -B)
 
 wrong_filename.txt: $(cdir)
-  find  '$^' \
+	find  '$^' \
     -not -name '[0-9][0-9]-[0-9][0-9]. *' \
     -not -name 'cover.png' \
     -not -name 'cover.[0-9]*.png' \
@@ -29,7 +29,6 @@ wrong_filename.txt: $(cdir)
     -not -name '*.nsp' \
     -not -name  '*.m3u' \
     -type f > '$@'
-
 
 #define album_missing_file
 #	cat $^ | \

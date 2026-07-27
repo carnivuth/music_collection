@@ -20,7 +20,7 @@ to_import/%:
 	( cd '$@' && cdda2wav -vall cddb=-1 speed=4 -B)
 
 wrong_filename.txt:
-	find  '$^' \
+	find  '$(cdir)' \
     -not -name '[0-9][0-9]-[0-9][0-9]. *' \
     -not -name 'cover.png' \
     -not -name 'cover.[0-9]*.png' \

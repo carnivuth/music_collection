@@ -3,88 +3,6 @@
 /mnt/containers/navidrome/collection/Franciosca/Ode al Furente Longhi/01 Ode al Furente Longhi.mp3
 /mnt/containers/navidrome/collection/Disfigure/Blank (HYLO remix)/1. Blank (HYLO remix).opus
 /mnt/containers/navidrome/collection/Disfigure/Blank (VIP)/1. Blank.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/28 Starlight Carnival - Act 1.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/52 Game Land - Stage Clear.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/74 Cutscene - The failed plan.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/33 Starlight Carnival - Act 3.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/81 Cutscene - Yacker’s Goodbye.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/27 Theme of Sonic Colors.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/77 vs. Nega-Wisp Armor - Phase 1.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/02 Theme of Sonic Colors - Title ver_.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/48 Game Land 4.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/04 Area - Tropical Resort.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/21 Cutscene - Sugar Armada Appears.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/29 Area - Starlight Carnival.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/73 Cutscene - Hyper-go-on Surge.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/05 Cutscene - Robots & Wisps.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/80 Terminal Velocity - Act 2.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/46 Game Land 3.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/57 Aquarium Park - Act 1.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/59 Aquarium Park - Act 2.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/56 Option Screen.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/19 Color Power - Yellow Drill.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/79 Cutscene - The Core.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/45 Game Land 2.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/76 Cutscene - The Nega-Wisp Armor.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/38 Cutscene - Wisp’s Homeworld.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/13 Cutscene - Yacker’s Plea.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/07 Color Power - Cyan Laser.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/08 Tropical Resort - Act 3.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/35 vs. Orcan & Skullian.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/49 Game Land 5.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/34 Cutscene - S01 Frigate Appears.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/70 Cutscene - Broken Chains.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/54 Game Over.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/53 Game Land - Result Screen.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/68 Asteroid Coaster - Act 3.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/41 Color Power - Pink Spikes.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/42 Planet Wisp - Act 3.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/25 Save Screen.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/82 Speak With Your Heart - Ending Theme -.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/55 Reach For The Stars - Short ver_.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/66 Color Power - Purple Frenzy.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/24 Result Screen.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/65 Asteroid Coaster - Act 2.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/69 Cutscene - Free from Nega-Wisp Factory.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/40 Planet Wisp - Act 2.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/16 Sweet Mountain - Act 1.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/10 Cutscene - Dr. Eggman Appears.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/50 Game Land 6.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/63 Area - Asteroid Coaster.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/01 Reach For The Stars - Opening Theme -.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/03 Tropical Resort - Act 1.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/22 vs. Captain Jelly & Admiral Jelly.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/61 Aquarium Park - Act 3.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/72 Area - Terminal Velocity.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/37 Planet Wisp - Act 1.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/60 Color Power - Yellow Drill Underwater ver_.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/09 Stage Clear.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/78 vs. Nega-Wisp Armor - Phase 2.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/17 Area - Sweet Mountain.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/26 Sonic Colors - Jingle.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/31 Starlight Carnival - Act 2.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/58 Area - Aquarium Park.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/62 Out of Breath.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/23 Boss Stage Clear.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/14 Cutscene - Robot’s Lost & Found.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/75 Terminal Velocity - Act 1.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/43 Game Land - Title Screen.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/11 Cutscene - Ferris Wheel Boss Appears.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/12 vs. Rotatatron & Refreshinator.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/06 Tropical Resort - Act 2.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/51 Game Land 7.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/71 Cutscene - Finally go home_.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/64 Asteroid Coaster - Act 1.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/32 Color Power - Blue Cube.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/15 World Map.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/30 Color Power - Green Hover.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/44 Game Land 1.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/67 Cutscene - Nega-Wisp Factory.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/47 Game Land - Color Power.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/39 Color Power - Orange Rocket.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/18 Sweet Mountain - Act 2.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/36 Area - Planet Wisp.opus
-/mnt/containers/navidrome/collection/Compilations/SONIC COLORS ORIGINAL SOUNDTRACK_ ViViD SOUND × HYBRiD COLORS/20 Sweet Mountain - Act 3.opus
 /mnt/containers/navidrome/collection/Compilations/Eurovision Song Contest_ Vienna 2026/19 Per sempre sì (Italy).opus
 /mnt/containers/navidrome/collection/Compilations/Eurovision Song Contest_ Vienna 2026/03 Eclipse (Australia).opus
 /mnt/containers/navidrome/collection/Compilations/Eurovision Song Contest_ Vienna 2026/28 Rosa (Portugal).opus
@@ -527,7 +445,6 @@
 /mnt/containers/navidrome/collection/Peter McConnell/Brütal Legend Original Soundtrack/07 Time to Break the Chains.mp3
 /mnt/containers/navidrome/collection/Peter McConnell/Brütal Legend Original Soundtrack/12 Betrayed.mp3
 /mnt/containers/navidrome/collection/Peter McConnell/Brütal Legend Original Soundtrack/05 Spirit of Bladehenge.mp3
-/mnt/containers/navidrome/collection/library.db-journal
 /mnt/containers/navidrome/collection/Various Artists/80s HITS – 100 Greatest Songs of the 1980s/01-100. Big Love.mp3
 /mnt/containers/navidrome/collection/Elvenking/The Pagan Manifesto/7. Towards the Shores.opus
 /mnt/containers/navidrome/collection/Elvenking/The Pagan Manifesto/12. Witches Gather.opus

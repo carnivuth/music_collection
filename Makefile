@@ -1,4 +1,4 @@
-
+SHELL= /bin/bash
 cdir ?= $(shell pwd)/collection
 
 .PHONY: $(cdir)

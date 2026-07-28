@@ -325,15 +325,4 @@
 /mnt/containers/navidrome/collection/Queen/Bohemian Rhapsody_ The Original Soundtrack/18. Ay‐Oh (Live Aid).flac
 /mnt/containers/navidrome/collection/Queen/Bohemian Rhapsody_ The Original Soundtrack/11. We Will Rock You (movie mix).flac
 /mnt/containers/navidrome/collection/Queen/Bohemian Rhapsody_ The Original Soundtrack/3. Doing All Right… Revisited.flac
-/mnt/containers/navidrome/collection/Dorothy/Ancora/2. Secondi molesti.opus
-/mnt/containers/navidrome/collection/Dorothy/Ancora/5. Ancora.opus
-/mnt/containers/navidrome/collection/Dorothy/Ancora/1. Clessidra.opus
-/mnt/containers/navidrome/collection/Dorothy/Ancora/4. Questo mondo uccide.opus
-/mnt/containers/navidrome/collection/Dorothy/Ancora/10. Paralleli e catene.opus
-/mnt/containers/navidrome/collection/Dorothy/Ancora/9. Boom!.opus
-/mnt/containers/navidrome/collection/Dorothy/Ancora/8. E se tante volte se.opus
-/mnt/containers/navidrome/collection/Dorothy/Ancora/11. Giuro manchi dentro.opus
-/mnt/containers/navidrome/collection/Dorothy/Ancora/7. Jacky.opus
-/mnt/containers/navidrome/collection/Dorothy/Ancora/6. Piazza pia.opus
-/mnt/containers/navidrome/collection/Dorothy/Ancora/3. Chiedilo alle stelle.opus
 /mnt/containers/navidrome/collection/library.db

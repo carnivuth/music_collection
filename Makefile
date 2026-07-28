@@ -19,6 +19,13 @@ to_import/%:
 	mkdir -p '$@'
 	( cd '$@' && cdda2wav -vall cddb=-1 speed=4 -B)
 
+wrong_albums.txt: wrong_filename.txt
+	cat $^ | \
+  	rev | \
+    cut -d'/' -f 2- | \
+    rev | \
+    sort -u > '$@'
+
 wrong_filename.txt:
 	find  '$(cdir)' \
     -not -name '[0-9][0-9]-[0-9][0-9]. *' \

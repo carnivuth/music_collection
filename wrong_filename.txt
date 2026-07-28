@@ -40,8 +40,6 @@
 /mnt/containers/navidrome/collection/Manafest/The Chase/5. Bring the Ruckus.opus
 /mnt/containers/navidrome/collection/Manafest/The Chase/6. Avalanche.opus
 /mnt/containers/navidrome/collection/Look Outside Your Window/Look Outside Your Window/10 U Can’t Stop This.wav
-/mnt/containers/navidrome/collection/J-Ax/Il bello desser
-/mnt/containers/navidrome/collection/Murubutu/Luomo
 /mnt/containers/navidrome/collection/missing_tracks_status.txt
 /mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-144. Entralink.opus
 /mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-114. Gear Station.opus
@@ -215,22 +213,6 @@
 /mnt/containers/navidrome/collection/Wind Rose/Trollslayer/6. Home of the Twilight.opus
 /mnt/containers/navidrome/collection/Wind Rose/Trollslayer/1. Of Ice and Blood.opus
 /mnt/containers/navidrome/collection/Pegboard Nerds/Luigis
-/mnt/containers/navidrome/collection/Metallica/Through the Never (Music From the Motion Picture)/1-02 Creeping Death.wav
-/mnt/containers/navidrome/collection/Metallica/Through the Never (Music From the Motion Picture)/1-08 Wherever I May Roam.wav
-/mnt/containers/navidrome/collection/Metallica/Through the Never (Music From the Motion Picture)/2-04 Battery.wav
-/mnt/containers/navidrome/collection/Metallica/Through the Never (Music From the Motion Picture)/2-03 Master of Puppets.wav
-/mnt/containers/navidrome/collection/Metallica/Through the Never (Music From the Motion Picture)/2-05 Nothing Else Matters.wav
-/mnt/containers/navidrome/collection/Metallica/Through the Never (Music From the Motion Picture)/1-03 For Whom the Bell Tolls.wav
-/mnt/containers/navidrome/collection/Metallica/Through the Never (Music From the Motion Picture)/2-07 Hit the Lights.wav
-/mnt/containers/navidrome/collection/Metallica/Through the Never (Music From the Motion Picture)/1-01 The Ecstasy of Gold.wav
-/mnt/containers/navidrome/collection/Metallica/Through the Never (Music From the Motion Picture)/2-06 Enter Sandman.wav
-/mnt/containers/navidrome/collection/Metallica/Through the Never (Music From the Motion Picture)/1-05 Ride the Lightning.wav
-/mnt/containers/navidrome/collection/Metallica/Through the Never (Music From the Motion Picture)/2-08 Orion.wav
-/mnt/containers/navidrome/collection/Metallica/Through the Never (Music From the Motion Picture)/1-04 Fuel.wav
-/mnt/containers/navidrome/collection/Metallica/Through the Never (Music From the Motion Picture)/1-07 The Memory Remains.wav
-/mnt/containers/navidrome/collection/Metallica/Through the Never (Music From the Motion Picture)/1-06 One.wav
-/mnt/containers/navidrome/collection/Metallica/Through the Never (Music From the Motion Picture)/2-02 …And Justice for All.wav
-/mnt/containers/navidrome/collection/Metallica/Through the Never (Music From the Motion Picture)/2-01 Cyanide.wav
 /mnt/containers/navidrome/collection/King Gizzard & the Lizard Wizard/Infest the Rats’ Nest/9. Hell.opus
 /mnt/containers/navidrome/collection/King Gizzard & the Lizard Wizard/Infest the Rats’ Nest/1. Planet B.opus
 /mnt/containers/navidrome/collection/King Gizzard & the Lizard Wizard/Infest the Rats’ Nest/3. Organ Farmer.opus

@@ -13,7 +13,7 @@ env: requirements.txt
 
 $(cdir):
 	mkdir -p '$@'
-	test -f '$@/library.db' && sshfs avalug.local.carnivuth.org:/mnt/containers/navidrome/collection '$@'
+	test -f '$@/library.db' || sshfs avalug.local.carnivuth.org:/mnt/containers/navidrome/collection '$@'
 
 to_import/%:
 	mkdir -p '$@'

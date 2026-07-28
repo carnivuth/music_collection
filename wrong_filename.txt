@@ -203,15 +203,6 @@
 /mnt/containers/navidrome/collection/Yasunori Nishiki/Yu-Gi-Oh! Master Duel/34.  Menu Theme #2.opus
 /mnt/containers/navidrome/collection/Yasunori Nishiki/Yu-Gi-Oh! Master Duel/18.  Climax Theme #6.opus
 /mnt/containers/navidrome/collection/Yasunori Nishiki/Yu-Gi-Oh! Master Duel/20.  Keycard Theme #7.opus
-/mnt/containers/navidrome/collection/Wind Rose/Trollslayer/4. Rock and Stone.opus
-/mnt/containers/navidrome/collection/Wind Rose/Trollslayer/5. To Be a Dwarf.opus
-/mnt/containers/navidrome/collection/Wind Rose/Trollslayer/9. No More Sorrow.opus
-/mnt/containers/navidrome/collection/Wind Rose/Trollslayer/3. The Great Feast Underground.opus
-/mnt/containers/navidrome/collection/Wind Rose/Trollslayer/7. Trollslayer.opus
-/mnt/containers/navidrome/collection/Wind Rose/Trollslayer/8. Legacy of the Forge.opus
-/mnt/containers/navidrome/collection/Wind Rose/Trollslayer/2. Dance of the Axes.opus
-/mnt/containers/navidrome/collection/Wind Rose/Trollslayer/6. Home of the Twilight.opus
-/mnt/containers/navidrome/collection/Wind Rose/Trollslayer/1. Of Ice and Blood.opus
 /mnt/containers/navidrome/collection/Pegboard Nerds/Luigis
 /mnt/containers/navidrome/collection/King Gizzard & the Lizard Wizard/Infest the Rats’ Nest/9. Hell.opus
 /mnt/containers/navidrome/collection/King Gizzard & the Lizard Wizard/Infest the Rats’ Nest/1. Planet B.opus
@@ -222,16 +213,6 @@
 /mnt/containers/navidrome/collection/King Gizzard & the Lizard Wizard/Infest the Rats’ Nest/5. Venusian 1.opus
 /mnt/containers/navidrome/collection/King Gizzard & the Lizard Wizard/Infest the Rats’ Nest/2. Mars for the Rich.opus
 /mnt/containers/navidrome/collection/King Gizzard & the Lizard Wizard/Infest the Rats’ Nest/4. Superbug.opus
-/mnt/containers/navidrome/collection/Tool/Fear Inoculum/3. Litanie contre la peur.opus
-/mnt/containers/navidrome/collection/Tool/Fear Inoculum/9. 7empest.opus
-/mnt/containers/navidrome/collection/Tool/Fear Inoculum/10. Mockingbeat.opus
-/mnt/containers/navidrome/collection/Tool/Fear Inoculum/1. Fear Inoculum.opus
-/mnt/containers/navidrome/collection/Tool/Fear Inoculum/2. Pneuma.opus
-/mnt/containers/navidrome/collection/Tool/Fear Inoculum/7. Culling Voices.opus
-/mnt/containers/navidrome/collection/Tool/Fear Inoculum/4. Invincible.opus
-/mnt/containers/navidrome/collection/Tool/Fear Inoculum/5. Legion Inoculant.opus
-/mnt/containers/navidrome/collection/Tool/Fear Inoculum/6. Descending.opus
-/mnt/containers/navidrome/collection/Tool/Fear Inoculum/8. Chocolate Chip Trip.opus
 /mnt/containers/navidrome/collection/Prodigy/The Fat of the Land/1. Smack My Bitch Up.opus
 /mnt/containers/navidrome/collection/Prodigy/The Fat of the Land/9. Climbatize.opus
 /mnt/containers/navidrome/collection/Prodigy/The Fat of the Land/2. Breathe.opus

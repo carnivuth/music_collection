@@ -19,7 +19,5 @@
 /mnt/containers/navidrome/collection/Prodigy/The Fat of the Land
 /mnt/containers/navidrome/collection/Queen/Bohemian Rhapsody_ The Original Soundtrack
 /mnt/containers/navidrome/collection/Soundtracks/Pokémon Sword & Pokémon Shield_ Super Music Collection
-/mnt/containers/navidrome/collection/Tool/Fear Inoculum
 /mnt/containers/navidrome/collection/Various Artists/80s HITS – 100 Greatest Songs of the 1980s
-/mnt/containers/navidrome/collection/Wind Rose/Trollslayer
 /mnt/containers/navidrome/collection/Yasunori Nishiki/Yu-Gi-Oh! Master Duel

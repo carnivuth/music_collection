@@ -17,17 +17,6 @@
 /mnt/containers/navidrome/collection/Compilations/NCS_ Uplifting/04 Crest.opus
 /mnt/containers/navidrome/collection/Compilations/NCS_ Uplifting/03 Let Go.opus
 /mnt/containers/navidrome/collection/Compilations/NCS_ Uplifting/10 Villain.opus
-/mnt/containers/navidrome/collection/Hollywood Undead/Notes From the Underground/6. Pigskin.opus
-/mnt/containers/navidrome/collection/Hollywood Undead/Notes From the Underground/9. Believe.opus
-/mnt/containers/navidrome/collection/Hollywood Undead/Notes From the Underground/4. Lion.opus
-/mnt/containers/navidrome/collection/Hollywood Undead/Notes From the Underground/11. Outside.opus
-/mnt/containers/navidrome/collection/Hollywood Undead/Notes From the Underground/8. Kill Everyone.opus
-/mnt/containers/navidrome/collection/Hollywood Undead/Notes From the Underground/2. From the Ground.opus
-/mnt/containers/navidrome/collection/Hollywood Undead/Notes From the Underground/10. Up in Smoke.opus
-/mnt/containers/navidrome/collection/Hollywood Undead/Notes From the Underground/5. We Are.opus
-/mnt/containers/navidrome/collection/Hollywood Undead/Notes From the Underground/7. Rain.opus
-/mnt/containers/navidrome/collection/Hollywood Undead/Notes From the Underground/1. Dead Bite.opus
-/mnt/containers/navidrome/collection/Hollywood Undead/Notes From the Underground/3. Another Way Out.opus
 /mnt/containers/navidrome/collection/Manafest/The Chase/2. Fire in the Kitchen.opus
 /mnt/containers/navidrome/collection/Manafest/The Chase/11. Breaking Down the Walls.opus
 /mnt/containers/navidrome/collection/Manafest/The Chase/3. Supernatural.opus

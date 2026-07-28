@@ -13,7 +13,7 @@ env: requirements.txt
 
 $(cdir):
 	mkdir -p '$@'
-	sshfs avalug.local.carnivuth.org:/mnt/containers/navidrome/collection '$@'
+	test -f '$@/library.db' && sshfs avalug.local.carnivuth.org:/mnt/containers/navidrome/collection '$@'
 
 to_import/%:
 	mkdir -p '$@'
@@ -26,7 +26,7 @@ wrong_albums.txt: wrong_filename.txt
     rev | \
     sort -u > '$@'
 
-wrong_filename.txt:
+wrong_filename.txt: $(cdir)
 	find  '$(cdir)' \
     -not -name '[0-9][0-9]-[0-9][0-9]. *' \
     -not -name 'cover.png' \

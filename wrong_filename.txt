@@ -122,15 +122,6 @@
 /mnt/containers/navidrome/collection/Soundtracks/Pokémon Sword & Pokémon Shield_ Super Music Collection/01-115. Unused Track.opus
 /mnt/containers/navidrome/collection/Soundtracks/Pokémon Sword & Pokémon Shield_ Super Music Collection/01-103. Battle! (Eternatus Phase 1).opus
 /mnt/containers/navidrome/collection/Various Artists/80s HITS – 100 Greatest Songs of the 1980s/01-100. Big Love.mp3
-/mnt/containers/navidrome/collection/King Gizzard & the Lizard Wizard/Infest the Rats’ Nest/9. Hell.opus
-/mnt/containers/navidrome/collection/King Gizzard & the Lizard Wizard/Infest the Rats’ Nest/1. Planet B.opus
-/mnt/containers/navidrome/collection/King Gizzard & the Lizard Wizard/Infest the Rats’ Nest/3. Organ Farmer.opus
-/mnt/containers/navidrome/collection/King Gizzard & the Lizard Wizard/Infest the Rats’ Nest/8. Self‐Immolate.opus
-/mnt/containers/navidrome/collection/King Gizzard & the Lizard Wizard/Infest the Rats’ Nest/6. Perihelion.opus
-/mnt/containers/navidrome/collection/King Gizzard & the Lizard Wizard/Infest the Rats’ Nest/7. Venusian 2.opus
-/mnt/containers/navidrome/collection/King Gizzard & the Lizard Wizard/Infest the Rats’ Nest/5. Venusian 1.opus
-/mnt/containers/navidrome/collection/King Gizzard & the Lizard Wizard/Infest the Rats’ Nest/2. Mars for the Rich.opus
-/mnt/containers/navidrome/collection/King Gizzard & the Lizard Wizard/Infest the Rats’ Nest/4. Superbug.opus
 /mnt/containers/navidrome/collection/Prodigy/The Fat of the Land/1. Smack My Bitch Up.opus
 /mnt/containers/navidrome/collection/Prodigy/The Fat of the Land/9. Climbatize.opus
 /mnt/containers/navidrome/collection/Prodigy/The Fat of the Land/2. Breathe.opus

@@ -39,7 +39,6 @@
 /mnt/containers/navidrome/collection/Manafest/The Chase/7. Married in Vegas.opus
 /mnt/containers/navidrome/collection/Manafest/The Chase/5. Bring the Ruckus.opus
 /mnt/containers/navidrome/collection/Manafest/The Chase/6. Avalanche.opus
-/mnt/containers/navidrome/collection/Look Outside Your Window/Look Outside Your Window/10 U Can’t Stop This.wav
 /mnt/containers/navidrome/collection/missing_tracks_status.txt
 /mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-144. Entralink.opus
 /mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-114. Gear Station.opus
@@ -203,7 +202,6 @@
 /mnt/containers/navidrome/collection/Yasunori Nishiki/Yu-Gi-Oh! Master Duel/34.  Menu Theme #2.opus
 /mnt/containers/navidrome/collection/Yasunori Nishiki/Yu-Gi-Oh! Master Duel/18.  Climax Theme #6.opus
 /mnt/containers/navidrome/collection/Yasunori Nishiki/Yu-Gi-Oh! Master Duel/20.  Keycard Theme #7.opus
-/mnt/containers/navidrome/collection/Pegboard Nerds/Luigis
 /mnt/containers/navidrome/collection/King Gizzard & the Lizard Wizard/Infest the Rats’ Nest/9. Hell.opus
 /mnt/containers/navidrome/collection/King Gizzard & the Lizard Wizard/Infest the Rats’ Nest/1. Planet B.opus
 /mnt/containers/navidrome/collection/King Gizzard & the Lizard Wizard/Infest the Rats’ Nest/3. Organ Farmer.opus

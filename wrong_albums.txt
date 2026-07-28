@@ -4,8 +4,6 @@
 /mnt/containers/navidrome/collection/Dire Straits/Absolute Hits (2016)
 /mnt/containers/navidrome/collection/Disfigure/Blank (HYLO remix)
 /mnt/containers/navidrome/collection/Disfigure/Blank (VIP)
-/mnt/containers/navidrome/collection/Elvenking/The Pagan Manifesto
-/mnt/containers/navidrome/collection/Elvenking/The Scythe (Anniversary Edition)
 /mnt/containers/navidrome/collection/Franciosca/Federico e la Moto Segreta
 /mnt/containers/navidrome/collection/Franciosca/Giacomo l'Aggiustatutto
 /mnt/containers/navidrome/collection/Franciosca/Ode al Furente Longhi

@@ -168,29 +168,6 @@
 /mnt/containers/navidrome/collection/Peter McConnell/Brütal Legend Original Soundtrack/12 Betrayed.mp3
 /mnt/containers/navidrome/collection/Peter McConnell/Brütal Legend Original Soundtrack/05 Spirit of Bladehenge.mp3
 /mnt/containers/navidrome/collection/Various Artists/80s HITS – 100 Greatest Songs of the 1980s/01-100. Big Love.mp3
-/mnt/containers/navidrome/collection/Elvenking/The Pagan Manifesto/7. Towards the Shores.opus
-/mnt/containers/navidrome/collection/Elvenking/The Pagan Manifesto/12. Witches Gather.opus
-/mnt/containers/navidrome/collection/Elvenking/The Pagan Manifesto/11. Black Roses for the Wicked One.opus
-/mnt/containers/navidrome/collection/Elvenking/The Pagan Manifesto/2. King of the Elves.opus
-/mnt/containers/navidrome/collection/Elvenking/The Pagan Manifesto/3. Elvenlegions.opus
-/mnt/containers/navidrome/collection/Elvenking/The Pagan Manifesto/5. Moonbeam Stone Circle.opus
-/mnt/containers/navidrome/collection/Elvenking/The Pagan Manifesto/4. The Druid Ritual of Oak.opus
-/mnt/containers/navidrome/collection/Elvenking/The Pagan Manifesto/9. Grandier's Funeral Pyre.opus
-/mnt/containers/navidrome/collection/Elvenking/The Pagan Manifesto/8. Pagan Revolution.opus
-/mnt/containers/navidrome/collection/Elvenking/The Pagan Manifesto/6. The Solitaire.opus
-/mnt/containers/navidrome/collection/Elvenking/The Pagan Manifesto/1. The Manifesto.opus
-/mnt/containers/navidrome/collection/Elvenking/The Pagan Manifesto/10. Twilight of Magic.opus
-/mnt/containers/navidrome/collection/Elvenking/The Scythe (Anniversary Edition)/6. Romance & Wrath (Remastered).opus
-/mnt/containers/navidrome/collection/Elvenking/The Scythe (Anniversary Edition)/8. Totentanz (Remastered).opus
-/mnt/containers/navidrome/collection/Elvenking/The Scythe (Anniversary Edition)/5. A Riddle of Stars (Remastered).opus
-/mnt/containers/navidrome/collection/Elvenking/The Scythe (Anniversary Edition)/4. Poison Tears (Remastered).opus
-/mnt/containers/navidrome/collection/Elvenking/The Scythe (Anniversary Edition)/9. Death and the Suffering (Remastered).opus
-/mnt/containers/navidrome/collection/Elvenking/The Scythe (Anniversary Edition)/3. Infection (Remastered).opus
-/mnt/containers/navidrome/collection/Elvenking/The Scythe (Anniversary Edition)/7. The Divided Heart (Remastered ).opus
-/mnt/containers/navidrome/collection/Elvenking/The Scythe (Anniversary Edition)/2. Lost Hill of Memories (Remastered).opus
-/mnt/containers/navidrome/collection/Elvenking/The Scythe (Anniversary Edition)/1. The Scythe (Remastered).opus
-/mnt/containers/navidrome/collection/Elvenking/The Scythe (Anniversary Edition)/11. Horns Ablaze (Remastered).opus
-/mnt/containers/navidrome/collection/Elvenking/The Scythe (Anniversary Edition)/10. Dominhate (Remastered).opus
 /mnt/containers/navidrome/collection/Yasunori Nishiki/Yu-Gi-Oh! Master Duel/10.  Battle Theme #4.opus
 /mnt/containers/navidrome/collection/Yasunori Nishiki/Yu-Gi-Oh! Master Duel/16.  Battle Theme #6.opus
 /mnt/containers/navidrome/collection/Yasunori Nishiki/Yu-Gi-Oh! Master Duel/09.  Climax Theme #3.opus

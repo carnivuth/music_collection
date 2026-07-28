@@ -17,17 +17,6 @@
 /mnt/containers/navidrome/collection/Compilations/NCS_ Uplifting/04 Crest.opus
 /mnt/containers/navidrome/collection/Compilations/NCS_ Uplifting/03 Let Go.opus
 /mnt/containers/navidrome/collection/Compilations/NCS_ Uplifting/10 Villain.opus
-/mnt/containers/navidrome/collection/Manafest/The Chase/2. Fire in the Kitchen.opus
-/mnt/containers/navidrome/collection/Manafest/The Chase/11. Breaking Down the Walls.opus
-/mnt/containers/navidrome/collection/Manafest/The Chase/3. Supernatural.opus
-/mnt/containers/navidrome/collection/Manafest/The Chase/8. Renegade.opus
-/mnt/containers/navidrome/collection/Manafest/The Chase/10. Better Cause of You.opus
-/mnt/containers/navidrome/collection/Manafest/The Chase/4. Every Time You Run.opus
-/mnt/containers/navidrome/collection/Manafest/The Chase/9. The Chase.opus
-/mnt/containers/navidrome/collection/Manafest/The Chase/1. No Plan B.opus
-/mnt/containers/navidrome/collection/Manafest/The Chase/7. Married in Vegas.opus
-/mnt/containers/navidrome/collection/Manafest/The Chase/5. Bring the Ruckus.opus
-/mnt/containers/navidrome/collection/Manafest/The Chase/6. Avalanche.opus
 /mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-144. Entralink.opus
 /mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-114. Gear Station.opus
 /mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-142. White Forest.opus

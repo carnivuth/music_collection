@@ -12,10 +12,8 @@
 /mnt/containers/navidrome/collection/Hollywood Undead/Notes From the Underground
 /mnt/containers/navidrome/collection/King Gizzard & the Lizard Wizard/Infest the Rats’ Nest
 /mnt/containers/navidrome/collection/Manafest/The Chase
-/mnt/containers/navidrome/collection/Peter McConnell/Brütal Legend Original Soundtrack
 /mnt/containers/navidrome/collection/Pinguini Tattici Nucleari/Fuori dall’Hype Ringo Starr
 /mnt/containers/navidrome/collection/Prodigy/The Fat of the Land
 /mnt/containers/navidrome/collection/Queen/Bohemian Rhapsody_ The Original Soundtrack
 /mnt/containers/navidrome/collection/Soundtracks/Pokémon Sword & Pokémon Shield_ Super Music Collection
 /mnt/containers/navidrome/collection/Various Artists/80s HITS – 100 Greatest Songs of the 1980s
-/mnt/containers/navidrome/collection/Yasunori Nishiki/Yu-Gi-Oh! Master Duel

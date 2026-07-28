@@ -39,7 +39,6 @@
 /mnt/containers/navidrome/collection/Manafest/The Chase/7. Married in Vegas.opus
 /mnt/containers/navidrome/collection/Manafest/The Chase/5. Bring the Ruckus.opus
 /mnt/containers/navidrome/collection/Manafest/The Chase/6. Avalanche.opus
-/mnt/containers/navidrome/collection/missing_tracks_status.txt
 /mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-144. Entralink.opus
 /mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-114. Gear Station.opus
 /mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-142. White Forest.opus
@@ -144,64 +143,7 @@
 /mnt/containers/navidrome/collection/Soundtracks/Pokémon Sword & Pokémon Shield_ Super Music Collection/01-109. The Galar Region's New Champion.opus
 /mnt/containers/navidrome/collection/Soundtracks/Pokémon Sword & Pokémon Shield_ Super Music Collection/01-115. Unused Track.opus
 /mnt/containers/navidrome/collection/Soundtracks/Pokémon Sword & Pokémon Shield_ Super Music Collection/01-103. Battle! (Eternatus Phase 1).opus
-/mnt/containers/navidrome/collection/Peter McConnell/Brütal Legend Original Soundtrack/02 11 O’Clock Is a Direction.mp3
-/mnt/containers/navidrome/collection/Peter McConnell/Brütal Legend Original Soundtrack/08 The Big Kiss.mp3
-/mnt/containers/navidrome/collection/Peter McConnell/Brütal Legend Original Soundtrack/17 Rescue From the Sea of Tears.mp3
-/mnt/containers/navidrome/collection/Peter McConnell/Brütal Legend Original Soundtrack/06 Ruins.mp3
-/mnt/containers/navidrome/collection/Peter McConnell/Brütal Legend Original Soundtrack/13 Sea of Black Tears.mp3
-/mnt/containers/navidrome/collection/Peter McConnell/Brütal Legend Original Soundtrack/14 A Creature Shall Rise.mp3
-/mnt/containers/navidrome/collection/Peter McConnell/Brütal Legend Original Soundtrack/20 Girlfriend (Kabbage Boy).mp3
-/mnt/containers/navidrome/collection/Peter McConnell/Brütal Legend Original Soundtrack/18 The Pleasure Tower.mp3
-/mnt/containers/navidrome/collection/Peter McConnell/Brütal Legend Original Soundtrack/10 The Spider’s Lair.mp3
-/mnt/containers/navidrome/collection/Peter McConnell/Brütal Legend Original Soundtrack/11 Thunderhorn.mp3
-/mnt/containers/navidrome/collection/Peter McConnell/Brütal Legend Original Soundtrack/03 Raptor’s Veld.mp3
-/mnt/containers/navidrome/collection/Peter McConnell/Brütal Legend Original Soundtrack/09 Blades of Serenity.mp3
-/mnt/containers/navidrome/collection/Peter McConnell/Brütal Legend Original Soundtrack/19 The End_.mp3
-/mnt/containers/navidrome/collection/Peter McConnell/Brütal Legend Original Soundtrack/15 Pile of Skulls.mp3
-/mnt/containers/navidrome/collection/Peter McConnell/Brütal Legend Original Soundtrack/16 Gather This Great Army.mp3
-/mnt/containers/navidrome/collection/Peter McConnell/Brütal Legend Original Soundtrack/01 The Chosen Roadie.mp3
-/mnt/containers/navidrome/collection/Peter McConnell/Brütal Legend Original Soundtrack/04 Lamprey Attack.mp3
-/mnt/containers/navidrome/collection/Peter McConnell/Brütal Legend Original Soundtrack/07 Time to Break the Chains.mp3
-/mnt/containers/navidrome/collection/Peter McConnell/Brütal Legend Original Soundtrack/12 Betrayed.mp3
-/mnt/containers/navidrome/collection/Peter McConnell/Brütal Legend Original Soundtrack/05 Spirit of Bladehenge.mp3
 /mnt/containers/navidrome/collection/Various Artists/80s HITS – 100 Greatest Songs of the 1980s/01-100. Big Love.mp3
-/mnt/containers/navidrome/collection/Yasunori Nishiki/Yu-Gi-Oh! Master Duel/10.  Battle Theme #4.opus
-/mnt/containers/navidrome/collection/Yasunori Nishiki/Yu-Gi-Oh! Master Duel/16.  Battle Theme #6.opus
-/mnt/containers/navidrome/collection/Yasunori Nishiki/Yu-Gi-Oh! Master Duel/09.  Climax Theme #3.opus
-/mnt/containers/navidrome/collection/Yasunori Nishiki/Yu-Gi-Oh! Master Duel/21.  Climax Theme #7.opus
-/mnt/containers/navidrome/collection/Yasunori Nishiki/Yu-Gi-Oh! Master Duel/24.  Battle Theme #9.opus
-/mnt/containers/navidrome/collection/Yasunori Nishiki/Yu-Gi-Oh! Master Duel/25.  Keycard Theme #9.opus
-/mnt/containers/navidrome/collection/Yasunori Nishiki/Yu-Gi-Oh! Master Duel/01.  Battle Theme #1.opus
-/mnt/containers/navidrome/collection/Yasunori Nishiki/Yu-Gi-Oh! Master Duel/24.  Climax Theme #8.opus
-/mnt/containers/navidrome/collection/Yasunori Nishiki/Yu-Gi-Oh! Master Duel/33.  Menu Theme #1.opus
-/mnt/containers/navidrome/collection/Yasunori Nishiki/Yu-Gi-Oh! Master Duel/27.  Battle Theme #10.opus
-/mnt/containers/navidrome/collection/Yasunori Nishiki/Yu-Gi-Oh! Master Duel/29.  Climax Theme #10.opus
-/mnt/containers/navidrome/collection/Yasunori Nishiki/Yu-Gi-Oh! Master Duel/13.  Battle Theme #5.opus
-/mnt/containers/navidrome/collection/Yasunori Nishiki/Yu-Gi-Oh! Master Duel/07.  Battle Theme #3.opus
-/mnt/containers/navidrome/collection/Yasunori Nishiki/Yu-Gi-Oh! Master Duel/23.  Keycard Theme #8.opus
-/mnt/containers/navidrome/collection/Yasunori Nishiki/Yu-Gi-Oh! Master Duel/26.  Climax Theme #9.opus
-/mnt/containers/navidrome/collection/Yasunori Nishiki/Yu-Gi-Oh! Master Duel/36.  Solo Gate Theme.opus
-/mnt/containers/navidrome/collection/Yasunori Nishiki/Yu-Gi-Oh! Master Duel/08.  Keycard Theme #3.opus
-/mnt/containers/navidrome/collection/Yasunori Nishiki/Yu-Gi-Oh! Master Duel/12.  Climax Theme #4.opus
-/mnt/containers/navidrome/collection/Yasunori Nishiki/Yu-Gi-Oh! Master Duel/22.  Battle Theme #8.opus
-/mnt/containers/navidrome/collection/Yasunori Nishiki/Yu-Gi-Oh! Master Duel/14.  Keycard Theme #5.opus
-/mnt/containers/navidrome/collection/Yasunori Nishiki/Yu-Gi-Oh! Master Duel/02.  Keycard Theme #1.opus
-/mnt/containers/navidrome/collection/Yasunori Nishiki/Yu-Gi-Oh! Master Duel/19.  Battle Theme #7.opus
-/mnt/containers/navidrome/collection/Yasunori Nishiki/Yu-Gi-Oh! Master Duel/30.  Duel Theme #11.opus
-/mnt/containers/navidrome/collection/Yasunori Nishiki/Yu-Gi-Oh! Master Duel/15.  Climax Theme #5.opus
-/mnt/containers/navidrome/collection/Yasunori Nishiki/Yu-Gi-Oh! Master Duel/31.  Keycard Theme #11.opus
-/mnt/containers/navidrome/collection/Yasunori Nishiki/Yu-Gi-Oh! Master Duel/32.  Climax Theme #11.opus
-/mnt/containers/navidrome/collection/Yasunori Nishiki/Yu-Gi-Oh! Master Duel/11.  Keycard Theme #4.opus
-/mnt/containers/navidrome/collection/Yasunori Nishiki/Yu-Gi-Oh! Master Duel/06.  Climax Theme #2.opus
-/mnt/containers/navidrome/collection/Yasunori Nishiki/Yu-Gi-Oh! Master Duel/05.  Keycard Theme #2.opus
-/mnt/containers/navidrome/collection/Yasunori Nishiki/Yu-Gi-Oh! Master Duel/35.  Menu Retro Theme.opus
-/mnt/containers/navidrome/collection/Yasunori Nishiki/Yu-Gi-Oh! Master Duel/04.  Battle Theme #2.opus
-/mnt/containers/navidrome/collection/Yasunori Nishiki/Yu-Gi-Oh! Master Duel/28.  Keycard Theme #10.opus
-/mnt/containers/navidrome/collection/Yasunori Nishiki/Yu-Gi-Oh! Master Duel/03.  Climax Theme #1.opus
-/mnt/containers/navidrome/collection/Yasunori Nishiki/Yu-Gi-Oh! Master Duel/17.  Keycard Theme #6.opus
-/mnt/containers/navidrome/collection/Yasunori Nishiki/Yu-Gi-Oh! Master Duel/34.  Menu Theme #2.opus
-/mnt/containers/navidrome/collection/Yasunori Nishiki/Yu-Gi-Oh! Master Duel/18.  Climax Theme #6.opus
-/mnt/containers/navidrome/collection/Yasunori Nishiki/Yu-Gi-Oh! Master Duel/20.  Keycard Theme #7.opus
 /mnt/containers/navidrome/collection/King Gizzard & the Lizard Wizard/Infest the Rats’ Nest/9. Hell.opus
 /mnt/containers/navidrome/collection/King Gizzard & the Lizard Wizard/Infest the Rats’ Nest/1. Planet B.opus
 /mnt/containers/navidrome/collection/King Gizzard & the Lizard Wizard/Infest the Rats’ Nest/3. Organ Farmer.opus

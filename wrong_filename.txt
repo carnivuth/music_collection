@@ -91,20 +91,6 @@
 /mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-118. Musical Theater.opus
 /mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-166. Pokédex Evaluation... It’s Perfect!.opus
 /mnt/containers/navidrome/collection/Pinguini Tattici Nucleari/Fuori dall’Hype Ringo Starr/cover.jpeg
-/mnt/containers/navidrome/collection/Dire Straits/Absolute Hits (2016)/14 Wild West End.flac
-/mnt/containers/navidrome/collection/Dire Straits/Absolute Hits (2016)/08 Money for Nothing.flac
-/mnt/containers/navidrome/collection/Dire Straits/Absolute Hits (2016)/13 Brothers in Arms.flac
-/mnt/containers/navidrome/collection/Dire Straits/Absolute Hits (2016)/02 Six Blade Knife.flac
-/mnt/containers/navidrome/collection/Dire Straits/Absolute Hits (2016)/06 Walk of Life.flac
-/mnt/containers/navidrome/collection/Dire Straits/Absolute Hits (2016)/01 Follow Me Home.flac
-/mnt/containers/navidrome/collection/Dire Straits/Absolute Hits (2016)/07 So Far Away.flac
-/mnt/containers/navidrome/collection/Dire Straits/Absolute Hits (2016)/05 Tunnel of Love.flac
-/mnt/containers/navidrome/collection/Dire Straits/Absolute Hits (2016)/04 Sultans of Swing.flac
-/mnt/containers/navidrome/collection/Dire Straits/Absolute Hits (2016)/03 Once Upon a Time in the West.flac
-/mnt/containers/navidrome/collection/Dire Straits/Absolute Hits (2016)/11 Your Latest Trick.flac
-/mnt/containers/navidrome/collection/Dire Straits/Absolute Hits (2016)/12 Down to the Waterline.flac
-/mnt/containers/navidrome/collection/Dire Straits/Absolute Hits (2016)/09 Lady Writer.flac
-/mnt/containers/navidrome/collection/Dire Straits/Absolute Hits (2016)/10 Romeo and Juliet.flac
 /mnt/containers/navidrome/collection/Soundtracks/Pokémon Sword & Pokémon Shield_ Super Music Collection/01-111. Zacian_Zamazenta Encounter.opus
 /mnt/containers/navidrome/collection/Soundtracks/Pokémon Sword & Pokémon Shield_ Super Music Collection/01-113. Battle Tower.opus
 /mnt/containers/navidrome/collection/Soundtracks/Pokémon Sword & Pokémon Shield_ Super Music Collection/01-101. Eternatus Appears.opus

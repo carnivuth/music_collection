@@ -1,6 +1,5 @@
 /mnt/containers/navidrome/collection
 /mnt/containers/navidrome/collection/Compilations/NCS_ Uplifting
-/mnt/containers/navidrome/collection/Dire Straits/Absolute Hits (2016)
 /mnt/containers/navidrome/collection/Disfigure/Blank (HYLO remix)
 /mnt/containers/navidrome/collection/Disfigure/Blank (VIP)
 /mnt/containers/navidrome/collection/Franciosca/Federico e la Moto Segreta

@@ -1,5 +1,4 @@
 /mnt/containers/navidrome/collection
-/mnt/containers/navidrome/collection/Andy Timmons/The Spoken and the Unspoken
 /mnt/containers/navidrome/collection/Compilations/NCS_ Uplifting
 /mnt/containers/navidrome/collection/Dire Straits/Absolute Hits (2016)
 /mnt/containers/navidrome/collection/Disfigure/Blank (HYLO remix)

@@ -9,7 +9,6 @@
 /mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection
 /mnt/containers/navidrome/collection/Hachiko/Memorie di una Troia
 /mnt/containers/navidrome/collection/Pinguini Tattici Nucleari/Fuori dall’Hype Ringo Starr
-/mnt/containers/navidrome/collection/Prodigy/The Fat of the Land
 /mnt/containers/navidrome/collection/Queen/Bohemian Rhapsody_ The Original Soundtrack
 /mnt/containers/navidrome/collection/Soundtracks/Pokémon Sword & Pokémon Shield_ Super Music Collection
 /mnt/containers/navidrome/collection/Various Artists/80s HITS – 100 Greatest Songs of the 1980s

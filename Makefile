@@ -27,7 +27,7 @@ wrong_albums.txt: wrong_filename.txt
     sort -u > '$@'
 
 wrong_filename.txt: $(cdir)
-	find  '$(cdir)' \
+	( cd '$(cdir)' && find   \
     -not -name '[0-9][0-9]-[0-9][0-9]. *' \
     -not -name 'cover.png' \
     -not -name 'cover.[0-9]*.png' \
@@ -35,5 +35,5 @@ wrong_filename.txt: $(cdir)
     -not -name 'cover.[0-9]*.jpg' \
     -not -name '*.nsp' \
     -not -name  '*.m3u' \
-    -type f > '$@'
+    -type f  ) > '$@'
 

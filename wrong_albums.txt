@@ -1,13 +1,13 @@
-/mnt/containers/navidrome/collection
-/mnt/containers/navidrome/collection/Compilations/NCS_ Uplifting
-/mnt/containers/navidrome/collection/Disfigure/Blank (HYLO remix)
-/mnt/containers/navidrome/collection/Disfigure/Blank (VIP)
-/mnt/containers/navidrome/collection/Franciosca/Federico e la Moto Segreta
-/mnt/containers/navidrome/collection/Franciosca/Giacomo l'Aggiustatutto
-/mnt/containers/navidrome/collection/Franciosca/Ode al Furente Longhi
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection
-/mnt/containers/navidrome/collection/Hachiko/Memorie di una Troia
-/mnt/containers/navidrome/collection/Pinguini Tattici Nucleari/Fuori dall’Hype Ringo Starr
-/mnt/containers/navidrome/collection/Queen/Bohemian Rhapsody_ The Original Soundtrack
-/mnt/containers/navidrome/collection/Soundtracks/Pokémon Sword & Pokémon Shield_ Super Music Collection
-/mnt/containers/navidrome/collection/Various Artists/80s HITS – 100 Greatest Songs of the 1980s
+.
+./Compilations/NCS_ Uplifting
+./Disfigure/Blank (HYLO remix)
+./Disfigure/Blank (VIP)
+./Franciosca/Federico e la Moto Segreta
+./Franciosca/Giacomo l'Aggiustatutto
+./Franciosca/Ode al Furente Longhi
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection
+./Hachiko/Memorie di una Troia
+./Pinguini Tattici Nucleari/Fuori dall’Hype Ringo Starr
+./Queen/Bohemian Rhapsody_ The Original Soundtrack
+./Soundtracks/Pokémon Sword & Pokémon Shield_ Super Music Collection
+./Various Artists/80s HITS – 100 Greatest Songs of the 1980s

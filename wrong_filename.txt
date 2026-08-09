@@ -1,142 +1,142 @@
-/mnt/containers/navidrome/collection/Franciosca/Federico e la Moto Segreta/01 Federico e la Moto Segreta.mp3
-/mnt/containers/navidrome/collection/Franciosca/Giacomo l'Aggiustatutto/01 Giacomo l’Aggiustatutto.mp3
-/mnt/containers/navidrome/collection/Franciosca/Ode al Furente Longhi/01 Ode al Furente Longhi.mp3
-/mnt/containers/navidrome/collection/Disfigure/Blank (HYLO remix)/1. Blank (HYLO remix).opus
-/mnt/containers/navidrome/collection/Disfigure/Blank (VIP)/1. Blank.opus
-/mnt/containers/navidrome/collection/Compilations/NCS_ Uplifting/11 Saved Me Now.opus
-/mnt/containers/navidrome/collection/Compilations/NCS_ Uplifting/12 Iris.opus
-/mnt/containers/navidrome/collection/Compilations/NCS_ Uplifting/14 NCS_ Uplifting (continuous mix).opus
-/mnt/containers/navidrome/collection/Compilations/NCS_ Uplifting/09 Night Shines.opus
-/mnt/containers/navidrome/collection/Compilations/NCS_ Uplifting/08 Over.opus
-/mnt/containers/navidrome/collection/Compilations/NCS_ Uplifting/06 Young Ones.opus
-/mnt/containers/navidrome/collection/Compilations/NCS_ Uplifting/07 Origin.opus
-/mnt/containers/navidrome/collection/Compilations/NCS_ Uplifting/01 Cetus.opus
-/mnt/containers/navidrome/collection/Compilations/NCS_ Uplifting/13 Panda.opus
-/mnt/containers/navidrome/collection/Compilations/NCS_ Uplifting/05 Only Us.opus
-/mnt/containers/navidrome/collection/Compilations/NCS_ Uplifting/02 This Life.opus
-/mnt/containers/navidrome/collection/Compilations/NCS_ Uplifting/04 Crest.opus
-/mnt/containers/navidrome/collection/Compilations/NCS_ Uplifting/03 Let Go.opus
-/mnt/containers/navidrome/collection/Compilations/NCS_ Uplifting/10 Villain.opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-144. Entralink.opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-114. Gear Station.opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-142. White Forest.opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-161. Mystery Gift.opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-108. Nintendo Wi-Fi Connection.opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-120. Dress Up With Props.opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-105. Route 2 (Autumn_Winter).2.opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-111. Spin Trade.opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-124. Musical_ “A Sweet Soirée”.opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-126. A Ferris Wheel Ride Together.opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-167. Battle! (Champion).opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-107. The Royal Unova.opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-146. Someone’s Entralink.opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-157. Abyssal Ruins.opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-132. Battle! (Legendary Pokémon).opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-128. Feeling Check_ Perfect!.opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-150. Undella Town (Autumn_Winter_Spring).opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-130. Feeling Check_ Lukewarm.opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-169. Congratulations on Entering the Hall of Fame!.opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-123. Musical_ “Forest Stroll”.opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-139. Poké Transfer_ Catch Your Pokémon!.opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-148. Mission Failed!.opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-165. Battle! (Kyurem).opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-151. Undella Town (Summer).opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-115. The Battle Subway.opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-103. Ending “Onward to Our Own Futures”.opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-162. Route 4 (Winter).2.opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-129. Feeling Check_ Getting Close.opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-112. Pokédex Evaluation... Just a Little More!.opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-104. Looker’s Theme.opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-121. The Curtain for the Musical Rises!.opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-147. Mission Accomplished!.opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-137. Poké Transfer Lab.opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-122. Musical_ “Stardom”.opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-106. Received a Pokémon Egg!.opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-155. Battle! (Strong Wild Pokémon).opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-164. Team Rocket!_.opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-119. Received Props!.opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-117. Received BP!.opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-149. Trainers’ Eyes Meet (Gentleman).opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-110. Gts.opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-135. Route 12 (Spring_Summer).opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-133. Anville Town.opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-100. Ghetsis’ Ambitions.opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-140. Trainers’ Eyes Meet (Pokéfan).opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-162. Route 4 (Winter).3.opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-141. Black City.opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-134. Marvelous Bridge.opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-136. Trainers’ Eyes Meet (Cyclist).opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-156. Surf.opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-102. Farewell.opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-163. Challenging a Battle Competition.opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-131. Route 6 (Autumn_Winter).opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-145. Begin an Entralink Mission!.opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-116. Battle! (Battle Subway Trainer).opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-162. Route 4 (Winter).opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-109. Global Terminal.opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-154. Lostlorn Forest.opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-152. Cynthia’s Theme.opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-101. Battle! (Ghetsis).opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-159. Lacunosa Town.opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-153. Battle! (Cynthia).opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-138. Poké Transfer_ Choose Your Pokémon!.opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-125. Musical_ “Exciting Nimbasa”.opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-168. Victory! (Champion).opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-158. Route 12 (Autumn_Winter).opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-127. Feeling Check.opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-160. Village Bridge.opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-105. Route 2 (Autumn_Winter).3.opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-105. Route 2 (Autumn_Winter).opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-143. Game Sync.opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-118. Musical Theater.opus
-/mnt/containers/navidrome/collection/GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-166. Pokédex Evaluation... It’s Perfect!.opus
-/mnt/containers/navidrome/collection/Pinguini Tattici Nucleari/Fuori dall’Hype Ringo Starr/cover.jpeg
-/mnt/containers/navidrome/collection/Soundtracks/Pokémon Sword & Pokémon Shield_ Super Music Collection/01-111. Zacian_Zamazenta Encounter.opus
-/mnt/containers/navidrome/collection/Soundtracks/Pokémon Sword & Pokémon Shield_ Super Music Collection/01-113. Battle Tower.opus
-/mnt/containers/navidrome/collection/Soundtracks/Pokémon Sword & Pokémon Shield_ Super Music Collection/01-101. Eternatus Appears.opus
-/mnt/containers/navidrome/collection/Soundtracks/Pokémon Sword & Pokémon Shield_ Super Music Collection/01-100. Battle! (Rose).opus
-/mnt/containers/navidrome/collection/Soundtracks/Pokémon Sword & Pokémon Shield_ Super Music Collection/01-110. Staff Roll.opus
-/mnt/containers/navidrome/collection/Soundtracks/Pokémon Sword & Pokémon Shield_ Super Music Collection/01-106. Eternatus Captured!.opus
-/mnt/containers/navidrome/collection/Soundtracks/Pokémon Sword & Pokémon Shield_ Super Music Collection/01-116. Unused Track 2.opus
-/mnt/containers/navidrome/collection/Soundtracks/Pokémon Sword & Pokémon Shield_ Super Music Collection/01-107. Battle! (Champion).opus
-/mnt/containers/navidrome/collection/Soundtracks/Pokémon Sword & Pokémon Shield_ Super Music Collection/01-108. Victory! (Champion).opus
-/mnt/containers/navidrome/collection/Soundtracks/Pokémon Sword & Pokémon Shield_ Super Music Collection/01-104. Battle! (Eternatus Phase 2).opus
-/mnt/containers/navidrome/collection/Soundtracks/Pokémon Sword & Pokémon Shield_ Super Music Collection/01-112. Battle! (Zacian _ Zamazenta).opus
-/mnt/containers/navidrome/collection/Soundtracks/Pokémon Sword & Pokémon Shield_ Super Music Collection/01-105. Battle! (Eternatus Phase 3).opus
-/mnt/containers/navidrome/collection/Soundtracks/Pokémon Sword & Pokémon Shield_ Super Music Collection/01-114. Battle! (Battle Tower).opus
-/mnt/containers/navidrome/collection/Soundtracks/Pokémon Sword & Pokémon Shield_ Super Music Collection/01-109. The Galar Region's New Champion.opus
-/mnt/containers/navidrome/collection/Soundtracks/Pokémon Sword & Pokémon Shield_ Super Music Collection/01-115. Unused Track.opus
-/mnt/containers/navidrome/collection/Soundtracks/Pokémon Sword & Pokémon Shield_ Super Music Collection/01-103. Battle! (Eternatus Phase 1).opus
-/mnt/containers/navidrome/collection/Various Artists/80s HITS – 100 Greatest Songs of the 1980s/01-100. Big Love.mp3
-/mnt/containers/navidrome/collection/Hachiko/Memorie di una Troia/08. MILF.opus
-/mnt/containers/navidrome/collection/Hachiko/Memorie di una Troia/04. POMPE COL CULO.opus
-/mnt/containers/navidrome/collection/Hachiko/Memorie di una Troia/07. FILOSOFA.opus
-/mnt/containers/navidrome/collection/Hachiko/Memorie di una Troia/05. DADDY ISSUES.opus
-/mnt/containers/navidrome/collection/Hachiko/Memorie di una Troia/09. STELLA MARINA.opus
-/mnt/containers/navidrome/collection/Hachiko/Memorie di una Troia/03. CARLO CONTY.opus
-/mnt/containers/navidrome/collection/Hachiko/Memorie di una Troia/02. CAZZO MOSCIO.opus
-/mnt/containers/navidrome/collection/Hachiko/Memorie di una Troia/01. SEGA A DUE MANI ٩ (⊙‿⊙) ۶.opus
-/mnt/containers/navidrome/collection/Hachiko/Memorie di una Troia/06. DIPENDANZA.opus
-/mnt/containers/navidrome/collection/Hachiko/Memorie di una Troia/10. COCAINA NELLA PUSSY.opus
-/mnt/containers/navidrome/collection/Queen/Bohemian Rhapsody_ The Original Soundtrack/7. Bohemian Rhapsody.flac
-/mnt/containers/navidrome/collection/Queen/Bohemian Rhapsody_ The Original Soundtrack/12. Another One Bites the Dust.flac
-/mnt/containers/navidrome/collection/Queen/Bohemian Rhapsody_ The Original Soundtrack/17. Radio Ga Ga (Live Aid).flac
-/mnt/containers/navidrome/collection/Queen/Bohemian Rhapsody_ The Original Soundtrack/5. Killer Queen.flac
-/mnt/containers/navidrome/collection/Queen/Bohemian Rhapsody_ The Original Soundtrack/14. Under Pressure.flac
-/mnt/containers/navidrome/collection/Queen/Bohemian Rhapsody_ The Original Soundtrack/21. Don’t Stop Me Now… Revisited.flac
-/mnt/containers/navidrome/collection/Queen/Bohemian Rhapsody_ The Original Soundtrack/16. Bohemian Rhapsody (Live Aid).flac
-/mnt/containers/navidrome/collection/Queen/Bohemian Rhapsody_ The Original Soundtrack/9. Crazy Little Thing Called Love.flac
-/mnt/containers/navidrome/collection/Queen/Bohemian Rhapsody_ The Original Soundtrack/1. 20th Century Fox Fanfare.flac
-/mnt/containers/navidrome/collection/Queen/Bohemian Rhapsody_ The Original Soundtrack/15. Who Wants to Live Forever.flac
-/mnt/containers/navidrome/collection/Queen/Bohemian Rhapsody_ The Original Soundtrack/10. Love of My Life (Rock in Rio).flac
-/mnt/containers/navidrome/collection/Queen/Bohemian Rhapsody_ The Original Soundtrack/20. We Are the Champions (Live Aid).flac
-/mnt/containers/navidrome/collection/Queen/Bohemian Rhapsody_ The Original Soundtrack/19. Hammer to Fall (Live Aid).flac
-/mnt/containers/navidrome/collection/Queen/Bohemian Rhapsody_ The Original Soundtrack/13. I Want to Break Free.flac
-/mnt/containers/navidrome/collection/Queen/Bohemian Rhapsody_ The Original Soundtrack/8. Now I’m Here (live at Hammersmith Odeon).flac
-/mnt/containers/navidrome/collection/Queen/Bohemian Rhapsody_ The Original Soundtrack/4. Keep Yourself Alive (live at The Rainbow).flac
-/mnt/containers/navidrome/collection/Queen/Bohemian Rhapsody_ The Original Soundtrack/6. Fat Bottomed Girls (live in Paris).flac
-/mnt/containers/navidrome/collection/Queen/Bohemian Rhapsody_ The Original Soundtrack/2. Somebody to Love.flac
-/mnt/containers/navidrome/collection/Queen/Bohemian Rhapsody_ The Original Soundtrack/18. Ay‐Oh (Live Aid).flac
-/mnt/containers/navidrome/collection/Queen/Bohemian Rhapsody_ The Original Soundtrack/11. We Will Rock You (movie mix).flac
-/mnt/containers/navidrome/collection/Queen/Bohemian Rhapsody_ The Original Soundtrack/3. Doing All Right… Revisited.flac
-/mnt/containers/navidrome/collection/library.db
+./Various Artists/80s HITS – 100 Greatest Songs of the 1980s/01-100. Big Love.mp3
+./Queen/Bohemian Rhapsody_ The Original Soundtrack/14. Under Pressure.flac
+./Queen/Bohemian Rhapsody_ The Original Soundtrack/12. Another One Bites the Dust.flac
+./Queen/Bohemian Rhapsody_ The Original Soundtrack/10. Love of My Life (Rock in Rio).flac
+./Queen/Bohemian Rhapsody_ The Original Soundtrack/20. We Are the Champions (Live Aid).flac
+./Queen/Bohemian Rhapsody_ The Original Soundtrack/15. Who Wants to Live Forever.flac
+./Queen/Bohemian Rhapsody_ The Original Soundtrack/5. Killer Queen.flac
+./Queen/Bohemian Rhapsody_ The Original Soundtrack/13. I Want to Break Free.flac
+./Queen/Bohemian Rhapsody_ The Original Soundtrack/17. Radio Ga Ga (Live Aid).flac
+./Queen/Bohemian Rhapsody_ The Original Soundtrack/3. Doing All Right… Revisited.flac
+./Queen/Bohemian Rhapsody_ The Original Soundtrack/11. We Will Rock You (movie mix).flac
+./Queen/Bohemian Rhapsody_ The Original Soundtrack/7. Bohemian Rhapsody.flac
+./Queen/Bohemian Rhapsody_ The Original Soundtrack/2. Somebody to Love.flac
+./Queen/Bohemian Rhapsody_ The Original Soundtrack/18. Ay‐Oh (Live Aid).flac
+./Queen/Bohemian Rhapsody_ The Original Soundtrack/19. Hammer to Fall (Live Aid).flac
+./Queen/Bohemian Rhapsody_ The Original Soundtrack/21. Don’t Stop Me Now… Revisited.flac
+./Queen/Bohemian Rhapsody_ The Original Soundtrack/4. Keep Yourself Alive (live at The Rainbow).flac
+./Queen/Bohemian Rhapsody_ The Original Soundtrack/16. Bohemian Rhapsody (Live Aid).flac
+./Queen/Bohemian Rhapsody_ The Original Soundtrack/9. Crazy Little Thing Called Love.flac
+./Queen/Bohemian Rhapsody_ The Original Soundtrack/8. Now I’m Here (live at Hammersmith Odeon).flac
+./Queen/Bohemian Rhapsody_ The Original Soundtrack/1. 20th Century Fox Fanfare.flac
+./Queen/Bohemian Rhapsody_ The Original Soundtrack/6. Fat Bottomed Girls (live in Paris).flac
+./Franciosca/Giacomo l'Aggiustatutto/01 Giacomo l’Aggiustatutto.mp3
+./Franciosca/Federico e la Moto Segreta/01 Federico e la Moto Segreta.mp3
+./Franciosca/Ode al Furente Longhi/01 Ode al Furente Longhi.mp3
+./Disfigure/Blank (VIP)/1. Blank.opus
+./Disfigure/Blank (HYLO remix)/1. Blank (HYLO remix).opus
+./Pinguini Tattici Nucleari/Fuori dall’Hype Ringo Starr/cover.jpeg
+./library.db
+./Soundtracks/Pokémon Sword & Pokémon Shield_ Super Music Collection/01-111. Zacian_Zamazenta Encounter.opus
+./Soundtracks/Pokémon Sword & Pokémon Shield_ Super Music Collection/01-100. Battle! (Rose).opus
+./Soundtracks/Pokémon Sword & Pokémon Shield_ Super Music Collection/01-107. Battle! (Champion).opus
+./Soundtracks/Pokémon Sword & Pokémon Shield_ Super Music Collection/01-112. Battle! (Zacian _ Zamazenta).opus
+./Soundtracks/Pokémon Sword & Pokémon Shield_ Super Music Collection/01-103. Battle! (Eternatus Phase 1).opus
+./Soundtracks/Pokémon Sword & Pokémon Shield_ Super Music Collection/01-116. Unused Track 2.opus
+./Soundtracks/Pokémon Sword & Pokémon Shield_ Super Music Collection/01-113. Battle Tower.opus
+./Soundtracks/Pokémon Sword & Pokémon Shield_ Super Music Collection/01-109. The Galar Region's New Champion.opus
+./Soundtracks/Pokémon Sword & Pokémon Shield_ Super Music Collection/01-106. Eternatus Captured!.opus
+./Soundtracks/Pokémon Sword & Pokémon Shield_ Super Music Collection/01-110. Staff Roll.opus
+./Soundtracks/Pokémon Sword & Pokémon Shield_ Super Music Collection/01-105. Battle! (Eternatus Phase 3).opus
+./Soundtracks/Pokémon Sword & Pokémon Shield_ Super Music Collection/01-114. Battle! (Battle Tower).opus
+./Soundtracks/Pokémon Sword & Pokémon Shield_ Super Music Collection/01-101. Eternatus Appears.opus
+./Soundtracks/Pokémon Sword & Pokémon Shield_ Super Music Collection/01-115. Unused Track.opus
+./Soundtracks/Pokémon Sword & Pokémon Shield_ Super Music Collection/01-104. Battle! (Eternatus Phase 2).opus
+./Soundtracks/Pokémon Sword & Pokémon Shield_ Super Music Collection/01-108. Victory! (Champion).opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-167. Battle! (Champion).opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-111. Spin Trade.opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-103. Ending “Onward to Our Own Futures”.opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-128. Feeling Check_ Perfect!.opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-121. The Curtain for the Musical Rises!.opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-162. Route 4 (Winter).2.opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-160. Village Bridge.opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-126. A Ferris Wheel Ride Together.opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-164. Team Rocket!_.opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-155. Battle! (Strong Wild Pokémon).opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-101. Battle! (Ghetsis).opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-157. Abyssal Ruins.opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-147. Mission Accomplished!.opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-139. Poké Transfer_ Catch Your Pokémon!.opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-115. The Battle Subway.opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-120. Dress Up With Props.opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-105. Route 2 (Autumn_Winter).3.opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-114. Gear Station.opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-104. Looker’s Theme.opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-146. Someone’s Entralink.opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-162. Route 4 (Winter).opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-159. Lacunosa Town.opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-166. Pokédex Evaluation... It’s Perfect!.opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-144. Entralink.opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-163. Challenging a Battle Competition.opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-145. Begin an Entralink Mission!.opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-165. Battle! (Kyurem).opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-102. Farewell.opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-158. Route 12 (Autumn_Winter).opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-149. Trainers’ Eyes Meet (Gentleman).opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-100. Ghetsis’ Ambitions.opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-150. Undella Town (Autumn_Winter_Spring).opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-132. Battle! (Legendary Pokémon).opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-151. Undella Town (Summer).opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-122. Musical_ “Stardom”.opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-137. Poké Transfer Lab.opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-152. Cynthia’s Theme.opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-138. Poké Transfer_ Choose Your Pokémon!.opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-130. Feeling Check_ Lukewarm.opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-127. Feeling Check.opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-118. Musical Theater.opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-109. Global Terminal.opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-133. Anville Town.opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-142. White Forest.opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-116. Battle! (Battle Subway Trainer).opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-112. Pokédex Evaluation... Just a Little More!.opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-162. Route 4 (Winter).3.opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-123. Musical_ “Forest Stroll”.opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-141. Black City.opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-154. Lostlorn Forest.opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-105. Route 2 (Autumn_Winter).2.opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-119. Received Props!.opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-110. Gts.opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-136. Trainers’ Eyes Meet (Cyclist).opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-129. Feeling Check_ Getting Close.opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-153. Battle! (Cynthia).opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-131. Route 6 (Autumn_Winter).opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-124. Musical_ “A Sweet Soirée”.opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-107. The Royal Unova.opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-117. Received BP!.opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-135. Route 12 (Spring_Summer).opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-148. Mission Failed!.opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-156. Surf.opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-106. Received a Pokémon Egg!.opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-169. Congratulations on Entering the Hall of Fame!.opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-143. Game Sync.opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-161. Mystery Gift.opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-134. Marvelous Bridge.opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-125. Musical_ “Exciting Nimbasa”.opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-168. Victory! (Champion).opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-140. Trainers’ Eyes Meet (Pokéfan).opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-105. Route 2 (Autumn_Winter).opus
+./GAME FREAK/Pokémon Black & Pokémon White_ Super Music Collection/01-108. Nintendo Wi-Fi Connection.opus
+./Hachiko/Memorie di una Troia/03. CARLO CONTY.opus
+./Hachiko/Memorie di una Troia/06. DIPENDANZA.opus
+./Hachiko/Memorie di una Troia/01. SEGA A DUE MANI ٩ (⊙‿⊙) ۶.opus
+./Hachiko/Memorie di una Troia/02. CAZZO MOSCIO.opus
+./Hachiko/Memorie di una Troia/10. COCAINA NELLA PUSSY.opus
+./Hachiko/Memorie di una Troia/04. POMPE COL CULO.opus
+./Hachiko/Memorie di una Troia/07. FILOSOFA.opus
+./Hachiko/Memorie di una Troia/05. DADDY ISSUES.opus
+./Hachiko/Memorie di una Troia/08. MILF.opus
+./Hachiko/Memorie di una Troia/09. STELLA MARINA.opus
+./Compilations/NCS_ Uplifting/03 Let Go.opus
+./Compilations/NCS_ Uplifting/08 Over.opus
+./Compilations/NCS_ Uplifting/01 Cetus.opus
+./Compilations/NCS_ Uplifting/10 Villain.opus
+./Compilations/NCS_ Uplifting/14 NCS_ Uplifting (continuous mix).opus
+./Compilations/NCS_ Uplifting/07 Origin.opus
+./Compilations/NCS_ Uplifting/11 Saved Me Now.opus
+./Compilations/NCS_ Uplifting/02 This Life.opus
+./Compilations/NCS_ Uplifting/09 Night Shines.opus
+./Compilations/NCS_ Uplifting/12 Iris.opus
+./Compilations/NCS_ Uplifting/06 Young Ones.opus
+./Compilations/NCS_ Uplifting/05 Only Us.opus
+./Compilations/NCS_ Uplifting/04 Crest.opus
+./Compilations/NCS_ Uplifting/13 Panda.opus

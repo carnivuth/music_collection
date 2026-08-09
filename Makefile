@@ -17,7 +17,7 @@ $(cdir):
 
 to_import/%:
 	mkdir -p '$@'
-	( cd '$@' && cdda2wav -vall cddb=-1 speed=4 -B)
+	( cd '$@' && cdda2wav -vall cddb=-1 speed=4 -B -D /dev/cdrom )
 
 wrong_albums.txt: wrong_filename.txt
 	cat $^ | \

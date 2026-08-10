@@ -25,7 +25,6 @@
 ./Franciosca/Ode al Furente Longhi/01 Ode al Furente Longhi.mp3
 ./Disfigure/Blank (VIP)/1. Blank.opus
 ./Disfigure/Blank (HYLO remix)/1. Blank (HYLO remix).opus
-./Pinguini Tattici Nucleari/Fuori dall’Hype Ringo Starr/cover.jpeg
 ./library.db
 ./Soundtracks/Pokémon Sword & Pokémon Shield_ Super Music Collection/01-111. Zacian_Zamazenta Encounter.opus
 ./Soundtracks/Pokémon Sword & Pokémon Shield_ Super Music Collection/01-100. Battle! (Rose).opus
